@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Journal App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="edit_diary_title">Enter the journalEntry title&#8230;</string>
+    <string name="edit_diary_description">Describe your journalEntry&#8230;</string>
+
+    <string name="add_button">Add</string>
+    <string name="edit_button">Edit</string>
+    <string name="update_button">Update</string>
+
+</resources>

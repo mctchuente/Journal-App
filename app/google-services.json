@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "938191013439",
+    "firebase_url": "https://journal-app-be3ce.firebaseio.com",
+    "project_id": "journal-app-be3ce",
+    "storage_bucket": "journal-app-be3ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938191013439:android:b30114bc5ca325b5",
+        "android_client_info": {
+          "package_name": "com.andela.alcwithgoogle.myjournalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938191013439-g398lkdra9dbnh5t8dp94fggqgmpl9al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJUW9o4soFfENqt0fLh3ux-Lyhi-hYC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
